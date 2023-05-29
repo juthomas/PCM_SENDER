@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "pcm-util": "^3.0.0"
+  }
+}
